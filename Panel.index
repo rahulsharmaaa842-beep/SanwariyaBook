@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SanwariyaBook</title>
+  <style>
+    body {
+      margin:0;
+      font-family:Arial;
+      background:#0f172a;
+      color:white;
+      text-align:center;
+    }
+    .header {
+      background:#111827;
+      padding:20px;
+      font-size:22px;
+      font-weight:bold;
+      color:#facc15;
+    }
+    .btn {
+      margin-top:30px;
+      padding:12px 20px;
+      background:#facc15;
+      color:black;
+      border:none;
+      border-radius:6px;
+      font-weight:bold;
+      text-decoration:none;
+      display:inline-block;
+    }
+  </style>
+</head>
+<body>
+
+<div class="header">SANWARIYABOOK</div>
+
+<h2>Welcome to SanwariyaBook Demo</h2>
+
+<a class="btn" href="user-login.html">User Login</a>
+<br><br>
+<a class="btn" href="admin-login.html">Admin Login</a>
+
+</body>
+</html>
